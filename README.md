@@ -29,7 +29,7 @@ This system automates ESG analysis using:
 The platform supports two execution modes:
 
 ### 🔹 Single-Agent Pipeline
-A baseline implementation where one LLM handles:
+A baseline implementation where one LLM handle:
 - Extraction  
 - Reasoning  
 - Summary generation  
