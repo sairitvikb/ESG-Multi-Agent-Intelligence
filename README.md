@@ -3,7 +3,7 @@
 
 An intelligent multi-agent system powered by Large Language Models (LLMs) that automates the extraction, structuring, and generation of ESG (Environmental, Social, Governance) reports from unstructured corporate documents.
 
-This project demonstrates how agentic AI architectures can improve reasoning reliability, modularity, and output quality compared to traditional single-agent pipelines.
+This project demonstrates how agentic AI architectures can improve reasoning reliability, modularity, and output quality compared to the traditional single-agent pipelines.
 
 ---
 
