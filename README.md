@@ -42,7 +42,7 @@ Used for performance comparison.
 A modular agent-based architecture including:
 
 - 📄 **Extraction Agent** – Identifies ESG-relevant sections  
-- 🧩 **Structuring Agent** – Categorizes content into Environmental, Social, Governance  
+- 🧩 **Structuring Agent** – Categorizes content into Environmental, Social and Governance  
 - 📝 **Generation Agent** – Produces structured ESG summaries  
 - 🔍 **Evaluation Agent** – Validates completeness and coherence  
 
